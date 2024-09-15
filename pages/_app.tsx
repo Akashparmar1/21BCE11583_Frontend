@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Fragment>
       <Head>
-        <title>Shraddha tiari </title>
+        <title>Akash_parmar_VIT BHOPAL </title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
